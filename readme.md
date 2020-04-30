@@ -4,7 +4,8 @@
 ## Problem 1- Programming language Python3
 
 ### Report
-- Report.pdf in the directory AmrishBaskaranHW1
+- The report can be found here
+[Report](https://github.com/amrish1222/travelling_salesperson_problem/blob/master/report.pdf)
 
 ### External dependencies
 - tsplib95 https://tsplib95.readthedocs.io/installation.html
@@ -12,6 +13,10 @@
 
 ### Outputs
 - The output tour files can be found in the Output Folder in the directory
+
+### Sample Minimum Spanning Tree and final generated tour for eil101's points
+
+![mst](https://github.com/amrish1222/travelling_salesperson_problem/blob/master/results/progEil101/minimum_spanning_tree.png) | ![tour](https://github.com/amrish1222/travelling_salesperson_problem/blob/master/results/progEil101/calculated_tour_with_heuristic.png)
 
 ### Running instructions
 - navigate to the source folder.
